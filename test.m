@@ -1,4 +1,4 @@
-@implementation TESTSomething <someProtocol> <anotherProtocol>
+@implementation TESTSomething <someProtocol>
 
 - (void)setValidationMessageHidden:(BOOL)hidden {
     [_someLabel setHidden:hidden];
